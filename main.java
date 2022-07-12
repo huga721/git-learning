@@ -1,3 +1,5 @@
-body {
+package main;
 
+class Main{
+  
 }
